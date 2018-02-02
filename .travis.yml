@@ -1,0 +1,3 @@
+lang: go
+go: 1.9
+script: go test -v
